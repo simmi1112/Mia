@@ -1,0 +1,2 @@
+D:\WORK WORK\INHABIT\UNITY\Inhabit Test\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\WORK WORK\INHABIT\UNITY\Inhabit Test\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

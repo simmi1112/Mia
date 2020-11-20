@@ -1,0 +1,349 @@
+
+skeleton.png
+size: 3530,3587
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Galesses
+  rotate: false
+  xy: 2592, 1305
+  size: 521, 245
+  orig: 521, 245
+  offset: 0, 0
+  index: -1
+HotDog_Arm
+  rotate: false
+  xy: 3428, 346
+  size: 82, 167
+  orig: 84, 169
+  offset: 1, 1
+  index: -1
+HotDog_Hat
+  rotate: false
+  xy: 1657, 1823
+  size: 1008, 426
+  orig: 1011, 428
+  offset: 2, 1
+  index: -1
+HotDog_Leg
+  rotate: true
+  xy: 2951, 58
+  size: 89, 154
+  orig: 91, 156
+  offset: 1, 1
+  index: -1
+HotDog_body
+  rotate: false
+  xy: 2530, 932
+  size: 415, 371
+  orig: 418, 374
+  offset: 2, 2
+  index: -1
+HotDog_bretti
+  rotate: true
+  xy: 2947, 782
+  size: 521, 219
+  orig: 523, 221
+  offset: 1, 1
+  index: -1
+HotDog_ceiling
+  rotate: false
+  xy: 1657, 2997
+  size: 1653, 588
+  orig: 1655, 590
+  offset: 1, 1
+  index: -1
+HotDog_for_sale
+  rotate: false
+  xy: 1544, 547
+  size: 359, 838
+  orig: 361, 840
+  offset: 1, 1
+  index: -1
+HotDog_glasses
+  rotate: false
+  xy: 2266, 581
+  size: 262, 804
+  orig: 265, 807
+  offset: 1, 2
+  index: -1
+HotDog_menu
+  rotate: false
+  xy: 2, 2
+  size: 1540, 586
+  orig: 1542, 588
+  offset: 1, 1
+  index: -1
+HotDog_skilti
+  rotate: false
+  xy: 2448, 282
+  size: 305, 275
+  orig: 307, 277
+  offset: 1, 1
+  index: -1
+Munnur1_open
+  rotate: false
+  xy: 3168, 755
+  size: 267, 288
+  orig: 267, 288
+  offset: 0, 0
+  index: -1
+Munnur2_Half
+  rotate: false
+  xy: 3167, 595
+  size: 257, 158
+  orig: 258, 158
+  offset: 0, 0
+  index: -1
+Munnur3_closed
+  rotate: true
+  xy: 3044, 262
+  size: 276, 136
+  orig: 276, 136
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 2947, 540
+  size: 218, 240
+  orig: 218, 240
+  offset: 0, 0
+  index: -1
+Skilti
+  rotate: false
+  xy: 2448, 5
+  size: 305, 275
+  orig: 305, 275
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 3115, 1343
+  size: 207, 271
+  orig: 207, 271
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2530, 559
+  size: 415, 371
+  orig: 416, 372
+  offset: 1, 1
+  index: -1
+bretti
+  rotate: true
+  xy: 2227, 24
+  size: 521, 219
+  orig: 521, 219
+  offset: 0, 0
+  index: -1
+ceiling
+  rotate: false
+  xy: 1657, 2407
+  size: 1653, 588
+  orig: 1653, 588
+  offset: 0, 0
+  index: -1
+chick_arm_l
+  rotate: false
+  xy: 3428, 515
+  size: 100, 127
+  orig: 100, 127
+  offset: 0, 0
+  index: -1
+chick_arm_r
+  rotate: false
+  xy: 1544, 1423
+  size: 110, 112
+  orig: 110, 112
+  offset: 0, 0
+  index: -1
+chick_beak
+  rotate: false
+  xy: 3182, 221
+  size: 128, 127
+  orig: 129, 127
+  offset: 1, 0
+  index: -1
+chick_body
+  rotate: false
+  xy: 1544, 47
+  size: 681, 498
+  orig: 681, 498
+  offset: 0, 0
+  index: -1
+chick_eye_l
+  rotate: true
+  xy: 3426, 644
+  size: 109, 102
+  orig: 109, 102
+  offset: 0, 0
+  index: -1
+chick_eye_r
+  rotate: false
+  xy: 2893, 168
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+chick_hair
+  rotate: false
+  xy: 3312, 167
+  size: 181, 166
+  orig: 181, 166
+  offset: 0, 0
+  index: -1
+chick_leg_l
+  rotate: true
+  xy: 3176, 149
+  size: 70, 120
+  orig: 71, 120
+  offset: 1, 0
+  index: -1
+chick_leg_r
+  rotate: true
+  xy: 3107, 69
+  size: 78, 105
+  orig: 79, 106
+  offset: 1, 0
+  index: -1
+chick_neck
+  rotate: true
+  xy: 3438, 2211
+  size: 89, 90
+  orig: 89, 90
+  offset: 0, 0
+  index: -1
+comms
+  rotate: false
+  xy: 2755, 146
+  size: 136, 411
+  orig: 136, 411
+  offset: 0, 0
+  index: -1
+ear_l
+  rotate: false
+  xy: 3182, 350
+  size: 137, 243
+  orig: 137, 243
+  offset: 0, 0
+  index: -1
+ear_r
+  rotate: false
+  xy: 2893, 274
+  size: 149, 264
+  orig: 149, 264
+  offset: 0, 0
+  index: -1
+eyebrow_l
+  rotate: false
+  xy: 2999, 149
+  size: 175, 111
+  orig: 175, 111
+  offset: 0, 0
+  index: -1
+eyebrow_lR
+  rotate: false
+  xy: 2755, 8
+  size: 194, 136
+  orig: 194, 136
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 3312, 3144
+  size: 441, 206
+  orig: 441, 206
+  offset: 0, 0
+  index: -1
+eyes_closed
+  rotate: true
+  xy: 3312, 2701
+  size: 441, 206
+  orig: 441, 206
+  offset: 0, 0
+  index: -1
+for_sale
+  rotate: false
+  xy: 1905, 547
+  size: 359, 838
+  orig: 359, 838
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: true
+  xy: 2592, 1552
+  size: 262, 804
+  orig: 263, 805
+  offset: 0, 1
+  index: -1
+har
+  rotate: true
+  xy: 3312, 2270
+  size: 429, 124
+  orig: 429, 125
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1657, 1387
+  size: 434, 933
+  orig: 434, 933
+  offset: 0, 0
+  index: -1
+hvita
+  rotate: true
+  xy: 3438, 2302
+  size: 397, 52
+  orig: 397, 52
+  offset: 0, 0
+  index: -1
+love
+  rotate: false
+  xy: 3168, 1045
+  size: 266, 296
+  orig: 266, 297
+  offset: 0, 1
+  index: -1
+menu
+  rotate: false
+  xy: 2, 590
+  size: 1540, 945
+  orig: 1540, 945
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 3321, 335
+  size: 105, 258
+  orig: 106, 258
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: false
+  xy: 1544, 2
+  size: 288, 43
+  orig: 288, 44
+  offset: 0, 1
+  index: -1
+table
+  rotate: false
+  xy: 1657, 2251
+  size: 1653, 154
+  orig: 1653, 154
+  offset: 0, 0
+  index: -1
+talva
+  rotate: false
+  xy: 2667, 1816
+  size: 715, 433
+  orig: 716, 433
+  offset: 0, 0
+  index: -1
+wall
+  rotate: false
+  xy: 2, 1537
+  size: 1653, 2048
+  orig: 1653, 2048
+  offset: 0, 0
+  index: -1
